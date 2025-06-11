@@ -6,7 +6,7 @@ DalMash started as gag, we are group of computer scientists who have come togeth
 
 ## Our Mission
 
-Our mission is to foster a community of like-minded individuals who can work together, learn from each other, and grow professionally. We aim to create a platform where we can share our experiences, expertise, and projects, and help each other improve our GitHub profiles.
+ Work together, learn from each other, and grow professionally. A platform where we can share our experiences, expertise, and projects, and help each other improve our GitHub profiles.
 
 ## What We Do
 
