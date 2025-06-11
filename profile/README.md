@@ -1,4 +1,4 @@
-# DalMashPK Organization
+# DalMash
 
 ## About Us
 
